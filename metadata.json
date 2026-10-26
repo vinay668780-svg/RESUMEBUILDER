@@ -1,0 +1,6 @@
+{
+  "name": "Calibre — Resume & Job Skill Alignment Studio",
+  "description": "Extract text from resumes, benchmark skills against target job descriptions, identify missing keywords, and apply actionable resume improvements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
